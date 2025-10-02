@@ -2,5 +2,29 @@
     {
         "package": "pmtiles",
         "url": "https://github.com/walkerke/pmtiles"
+    }, 
+    {
+        "package": "tigris", 
+        "url": "https://github.com/walkerke/tigris"
+    },
+    {
+        "package": "tidycensus", 
+        "url": "https://github.com/walkerke/tidycensus"
+    },
+    {
+        "package": "mapgl", 
+        "url": "https://github.com/walkerke/mapgl"
+    },
+    {
+        "package": "mapboxapi", 
+        "url": "https://github.com/walkerke/mapboxapi"
+    },
+    {
+        "package": "crsuggest", 
+        "url": "https://github.com/walkerke/crsuggest"
+    },
+    {
+        "package": "idbr", 
+        "url": "https://github.com/walkerke/idbr"
     }
 ]
