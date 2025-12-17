@@ -26,5 +26,9 @@
     {
         "package": "idbr", 
         "url": "https://github.com/walkerke/idbr"
+    }, 
+    {
+        "package": "geosam", 
+        "url": "https://github.com/walkerke/geosam"
     }
 ]
