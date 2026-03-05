@@ -34,5 +34,8 @@
     {
         "package": "spopt",
         "url": "https://github.com/walkerke/spopt-r"
+    }, 
+        "package": "freestiler", 
+        "url": "https://github.com/walkerke/freestiler"
     }
 ]
